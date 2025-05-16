@@ -145,4 +145,4 @@ function recommendSong() {
     currentVideoId = randomSong.videoId;
     
     resultContainer.style.display = 'block';
-}
+} 
